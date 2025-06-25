@@ -1,0 +1,10 @@
+man
+men
+woman
+women
+human
+humans
+people
+person
+persons
+
